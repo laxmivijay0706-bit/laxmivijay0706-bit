@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi 👋, I'm Vijaylaxmi Yadav
 
-<!--
-**laxmivijay0706-bit/laxmivijay0706-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- DevOps & QA Intern
+- Learning Linux, Git, Docker, PostgreSQL
+- Interested in Automation Testing and Cloud
 
-Here are some ideas to get you started:
+## Skills
+- Linux
+- Git & GitHub
+- Docker
+- PostgreSQL
+- HTML/CSS
+- Robot Framework
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- Server Monitoring Project
+- Linux Notes Repository
+
+## Connect With Me
+- GitHub: https://github.com/laxmivijay0706-bit
