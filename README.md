@@ -49,9 +49,11 @@ Collection of Linux commands and DevOps practice notes.
 🔗 GitHub:  
 https://github.com/laxmivijay0706-bit
 
+💼 LinkedIn:  
+http://linkedin.com/in/vijaylaxmi-yadav-612994229/
+
 📧 Email:  
 laxmivijay0706@gmail.com
-
 ---
 
 ⭐ “Learning by building real projects.”
